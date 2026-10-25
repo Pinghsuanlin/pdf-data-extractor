@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_028_narrative_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-121S",
+    "applicant_name": "Riverside Crossing Housing, LP",
+    "total_dev_cost": 15600000.0,
+    "hard_construction_cost": 9015000.0,
+    "funding_source": "SAIL",
+    "funding_amount": 4630000.0,
+    "leverage_ratio": 3.37
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_027_header_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-367BS",
+    "applicant_name": "Lakeshore Village Partners, Ltd.",
+    "total_dev_cost": 7900000.0,
+    "hard_construction_cost": 4790000.0,
+    "funding_source": "HOME-ARP",
+    "funding_amount": 4040000.0,
+    "leverage_ratio": 1.96
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "short_money"
+    ]
+  }
+}

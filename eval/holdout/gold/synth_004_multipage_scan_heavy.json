@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_004_multipage_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-222H",
+    "applicant_name": "Mangrove Commons Apartments, LLC",
+    "total_dev_cost": 20700000.0,
+    "hard_construction_cost": 12988000.0,
+    "funding_source": "RFA 2023-198",
+    "funding_amount": 5940000.0,
+    "leverage_ratio": 3.48
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": []
+  }
+}

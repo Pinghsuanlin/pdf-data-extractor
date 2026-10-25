@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_001_kv_table_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-385BS",
+    "applicant_name": "Heron Landing Apartments, LLC",
+    "total_dev_cost": 21700000.0,
+    "hard_construction_cost": 14367000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 7840000.0,
+    "leverage_ratio": 2.77
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": [
+      "per_unit_distractor",
+      "short_money"
+    ]
+  }
+}

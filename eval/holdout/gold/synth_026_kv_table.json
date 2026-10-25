@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_026_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-122BS",
+    "applicant_name": "Palm Landing Partners, Ltd.",
+    "total_dev_cost": 19300000.0,
+    "hard_construction_cost": 14001000.0,
+    "funding_source": "RFA 2024-309",
+    "funding_amount": 6480000.0,
+    "leverage_ratio": 2.98
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_004_multipage_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-274S",
+    "applicant_name": "Cypress Landing Housing, LP",
+    "total_dev_cost": 15300000.0,
+    "hard_construction_cost": 9436000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 5160000.0,
+    "leverage_ratio": 2.97
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

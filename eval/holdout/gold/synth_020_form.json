@@ -1,0 +1,24 @@
+{
+  "source_file": "synth_020_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-246S",
+    "applicant_name": "Seagrape Pines Development, LP",
+    "total_dev_cost": 36900000.0,
+    "hard_construction_cost": 27170000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": 16140000.0,
+    "leverage_ratio": 2.29
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels",
+      "short_money"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_017_header_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-130BS",
+    "applicant_name": "Bayview Commons Partners, Ltd.",
+    "total_dev_cost": 41200000.0,
+    "hard_construction_cost": 24068000.0,
+    "funding_source": "RFA 2025-171",
+    "funding_amount": null,
+    "leverage_ratio": null
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "no_funding_amount"
+    ]
+  }
+}

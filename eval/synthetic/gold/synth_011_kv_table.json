@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_011_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-269C",
+    "applicant_name": "Riverside Ridge Partners, Ltd.",
+    "total_dev_cost": 12900000.0,
+    "hard_construction_cost": 7779000.0,
+    "funding_source": "RFA 2023-196",
+    "funding_amount": 4830000.0,
+    "leverage_ratio": 2.67
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

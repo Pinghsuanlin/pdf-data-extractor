@@ -1,0 +1,53 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pdf-data-extractor"
+version = "2.1.0"
+description = "Rule-first, LLM-second extraction of funding data from native and scanned PDFs, with per-field confidence, an audit trail, a human-review UI and a synthetic benchmark."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Sherie Lin" }]
+requires-python = ">=3.10"
+dependencies = [
+    "pdfplumber>=0.11",
+    "pillow>=10.0",
+    "reportlab>=4.0",
+    "pandas>=2.1",
+    "openpyxl>=3.1",
+    "pydantic>=2.6",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.35"]
+ocr = ["pytesseract>=0.3.10"]
+dev = ["pytest>=8.0", "pytest-cov>=5.0", "ruff>=0.5", "mypy>=1.10", "pandas-stubs"]
+
+[project.scripts]
+pdf-extract = "pdf_extractor.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pdf_extractor"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["UP007", "UP045", "SIM108"]  # keep Optional[...] and explicit if/else for readability
+
+[tool.ruff.lint.isort]
+known-first-party = ["pdf_extractor"]
+
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+warn_unused_ignores = false

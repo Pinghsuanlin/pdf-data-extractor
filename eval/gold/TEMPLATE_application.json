@@ -1,0 +1,15 @@
+{
+  "_instructions": "Copy this file once per labelled PDF (e.g. eval/gold/<pdf-name>.json). Set source_file to the PDF file name in data/pdfs/. Replace every FILL_IN with the value you read in the document: numbers for money and ratios (14500000, 1.45), text for the rest. Use null when the document genuinely does not state the field. Leave FILL_IN for anything you have not checked yet; it is skipped, not scored. Keep this template unchanged.",
+  "source_file": "FILL_IN.pdf",
+  "labelled_by": "FILL_IN",
+  "labelled_on": "FILL_IN",
+  "fields": {
+    "project_id": "FILL_IN",
+    "applicant_name": "FILL_IN",
+    "total_dev_cost": "FILL_IN",
+    "hard_construction_cost": "FILL_IN",
+    "funding_source": "FILL_IN",
+    "funding_amount": "FILL_IN",
+    "leverage_ratio": "FILL_IN"
+  }
+}

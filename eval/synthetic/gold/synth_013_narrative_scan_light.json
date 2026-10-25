@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_013_narrative_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-144C",
+    "applicant_name": "Bayview Crossing Apartments, LLC",
+    "total_dev_cost": 42900000.0,
+    "hard_construction_cost": 31947000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": 12340000.0,
+    "leverage_ratio": 3.48
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_008_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-171H",
+    "applicant_name": "Sunrise Commons Housing, LP",
+    "total_dev_cost": 25700000.0,
+    "hard_construction_cost": 18043000.0,
+    "funding_source": "SAIL",
+    "funding_amount": 13160000.0,
+    "leverage_ratio": 1.95
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels"
+    ]
+  }
+}

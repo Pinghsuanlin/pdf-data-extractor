@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_016_kv_table_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-325H",
+    "applicant_name": "Pelican Pines Housing, LP",
+    "total_dev_cost": 38400000.0,
+    "hard_construction_cost": 27316000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 22640000.0,
+    "leverage_ratio": 1.7
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "unseen_labels",
+      "short_money"
+    ]
+  }
+}

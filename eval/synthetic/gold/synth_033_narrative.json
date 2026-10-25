@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_033_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-331H",
+    "applicant_name": "Willow Square Homes, LLC",
+    "total_dev_cost": 9600000.0,
+    "hard_construction_cost": 6214000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 5500000.0,
+    "leverage_ratio": 1.75
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

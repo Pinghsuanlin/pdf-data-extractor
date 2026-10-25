@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_009_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-246S",
+    "applicant_name": "Coral Pines Homes, LLC",
+    "total_dev_cost": 44500000.0,
+    "hard_construction_cost": 26813000.0,
+    "funding_source": "RFA 2025-117",
+    "funding_amount": 16340000.0,
+    "leverage_ratio": 2.72
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

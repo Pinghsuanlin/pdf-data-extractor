@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_018_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-169BS",
+    "applicant_name": "Oak Landing Partners, Ltd.",
+    "total_dev_cost": 31200000.0,
+    "hard_construction_cost": 18088000.0,
+    "funding_source": "RFA 2025-294",
+    "funding_amount": 12870000.0,
+    "leverage_ratio": 2.42
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "short_money"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_file": "synth_038_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-160H",
+    "applicant_name": "Mangrove Place Homes, LLC",
+    "total_dev_cost": 28500000.0,
+    "hard_construction_cost": 18274000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": null,
+    "leverage_ratio": null
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "short_money",
+      "no_funding_amount"
+    ]
+  }
+}

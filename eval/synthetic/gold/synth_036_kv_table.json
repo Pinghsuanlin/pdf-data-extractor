@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_036_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-293S",
+    "applicant_name": "Sunrise Place Partners, Ltd.",
+    "total_dev_cost": 22800000.0,
+    "hard_construction_cost": 13168000.0,
+    "funding_source": "HOME-ARP",
+    "funding_amount": 14490000.0,
+    "leverage_ratio": 1.57
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

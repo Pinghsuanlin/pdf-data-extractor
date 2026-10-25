@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_037_header_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-233C",
+    "applicant_name": "Lakeshore Crossing Apartments, LLC",
+    "total_dev_cost": 16700000.0,
+    "hard_construction_cost": 9426000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": 10670000.0,
+    "leverage_ratio": 1.57
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels"
+    ]
+  }
+}

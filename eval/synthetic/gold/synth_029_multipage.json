@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_029_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-185H",
+    "applicant_name": "Coral Gardens Partners, Ltd.",
+    "total_dev_cost": 12000000.0,
+    "hard_construction_cost": 6726000.0,
+    "funding_source": "RFA 2023-129",
+    "funding_amount": 4400000.0,
+    "leverage_ratio": 2.73
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "short_money"
+    ]
+  }
+}

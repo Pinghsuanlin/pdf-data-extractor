@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_029_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-152C",
+    "applicant_name": "Oak Crossing Homes, LLC",
+    "total_dev_cost": 19700000.0,
+    "hard_construction_cost": 12832000.0,
+    "funding_source": "RFA 2023-206",
+    "funding_amount": 9680000.0,
+    "leverage_ratio": 2.04
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": []
+  }
+}

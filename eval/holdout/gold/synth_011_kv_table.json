@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_011_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-212S",
+    "applicant_name": "Cypress Gardens Housing, LP",
+    "total_dev_cost": 12700000.0,
+    "hard_construction_cost": 7934000.0,
+    "funding_source": "ELI Loan",
+    "funding_amount": 4640000.0,
+    "leverage_ratio": 2.74
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

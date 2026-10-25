@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_030_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-346C",
+    "applicant_name": "Mangrove Pines Apartments, LLC",
+    "total_dev_cost": 9200000.0,
+    "hard_construction_cost": 5163000.0,
+    "funding_source": "RFA 2025-178",
+    "funding_amount": 4530000.0,
+    "leverage_ratio": 2.03
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

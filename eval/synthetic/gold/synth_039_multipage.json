@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_039_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-319C",
+    "applicant_name": "Lakeshore Pines Apartments, LLC",
+    "total_dev_cost": 28900000.0,
+    "hard_construction_cost": 18670000.0,
+    "funding_source": "RFA 2024-227",
+    "funding_amount": 13000000.0,
+    "leverage_ratio": 2.22
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_035_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-343C",
+    "applicant_name": "Citrus Ridge Apartments, LLC",
+    "total_dev_cost": 27700000.0,
+    "hard_construction_cost": 18496000.0,
+    "funding_source": "RFA 2025-119",
+    "funding_amount": 11910000.0,
+    "leverage_ratio": 2.33
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

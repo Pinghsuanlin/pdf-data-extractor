@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_012_header_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-163BS",
+    "applicant_name": "Coral Pines Housing, LP",
+    "total_dev_cost": 19200000.0,
+    "hard_construction_cost": 11878000.0,
+    "funding_source": "RFA 2023-269",
+    "funding_amount": 5600000.0,
+    "leverage_ratio": 3.43
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": []
+  }
+}

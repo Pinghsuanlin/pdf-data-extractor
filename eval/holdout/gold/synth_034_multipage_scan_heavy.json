@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_034_multipage_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-186H",
+    "applicant_name": "Riverside Landing Development, LP",
+    "total_dev_cost": 33900000.0,
+    "hard_construction_cost": 19218000.0,
+    "funding_source": "ELI Loan",
+    "funding_amount": 10260000.0,
+    "leverage_ratio": 3.3
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

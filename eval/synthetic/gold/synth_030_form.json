@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_030_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-137H",
+    "applicant_name": "Palm Commons Apartments, LLC",
+    "total_dev_cost": 22900000.0,
+    "hard_construction_cost": 15470000.0,
+    "funding_source": "RFA 2024-311",
+    "funding_amount": 14320000.0,
+    "leverage_ratio": 1.6
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

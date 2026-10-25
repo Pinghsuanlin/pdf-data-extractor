@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_007_header_table_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-128S",
+    "applicant_name": "Palm Pines Development, LP",
+    "total_dev_cost": 20300000.0,
+    "hard_construction_cost": 14379000.0,
+    "funding_source": "ELI Loan",
+    "funding_amount": 5820000.0,
+    "leverage_ratio": 3.49
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": [
+      "per_unit_distractor",
+      "short_money"
+    ]
+  }
+}

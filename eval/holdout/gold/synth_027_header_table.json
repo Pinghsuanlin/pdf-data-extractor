@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_027_header_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-138H",
+    "applicant_name": "Heron Pines Apartments, LLC",
+    "total_dev_cost": 10300000.0,
+    "hard_construction_cost": 6971000.0,
+    "funding_source": "HOME-ARP",
+    "funding_amount": 3960000.0,
+    "leverage_ratio": 2.6
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_024_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-292BS",
+    "applicant_name": "Oak Place Partners, Ltd.",
+    "total_dev_cost": 31900000.0,
+    "hard_construction_cost": 20980000.0,
+    "funding_source": "RFA 2024-257",
+    "funding_amount": null,
+    "leverage_ratio": null
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "no_funding_amount"
+    ]
+  }
+}

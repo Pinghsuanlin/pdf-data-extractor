@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_022_header_table_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-337H",
+    "applicant_name": "Citrus Landing Housing, LP",
+    "total_dev_cost": 39100000.0,
+    "hard_construction_cost": 23860000.0,
+    "funding_source": "RFA 2024-141",
+    "funding_amount": 12830000.0,
+    "leverage_ratio": 3.05
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

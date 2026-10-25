@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_014_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-323C",
+    "applicant_name": "Pelican Crossing Development, LP",
+    "total_dev_cost": 36000000.0,
+    "hard_construction_cost": 24735000.0,
+    "funding_source": "RFA 2023-274",
+    "funding_amount": 21230000.0,
+    "leverage_ratio": 1.15
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "leverage_inconsistent"
+    ]
+  }
+}

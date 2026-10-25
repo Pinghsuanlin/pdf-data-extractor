@@ -1,0 +1,24 @@
+{
+  "source_file": "synth_005_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-388H",
+    "applicant_name": "Heron Ridge Housing, LP",
+    "total_dev_cost": 14900000.0,
+    "hard_construction_cost": 10047000.0,
+    "funding_source": "RFA 2024-180",
+    "funding_amount": 7880000.0,
+    "leverage_ratio": 1.54
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels",
+      "leverage_inconsistent"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_036_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-168C",
+    "applicant_name": "Seagrape Landing Housing, LP",
+    "total_dev_cost": 39600000.0,
+    "hard_construction_cost": 27541000.0,
+    "funding_source": "ELI Loan",
+    "funding_amount": 15600000.0,
+    "leverage_ratio": 2.54
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels"
+    ]
+  }
+}

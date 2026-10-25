@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_014_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-356H",
+    "applicant_name": "Sunrise Ridge Housing, LP",
+    "total_dev_cost": 25400000.0,
+    "hard_construction_cost": 17386000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 9020000.0,
+    "leverage_ratio": 3.61
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "short_money",
+      "leverage_inconsistent"
+    ]
+  }
+}

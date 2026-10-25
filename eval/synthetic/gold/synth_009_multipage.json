@@ -1,0 +1,20 @@
+{
+  "source_file": "synth_009_multipage.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-303S",
+    "applicant_name": "Harbor Landing Partners, Ltd.",
+    "total_dev_cost": 21600000.0,
+    "hard_construction_cost": 13118000.0,
+    "funding_source": "RFA 2023-124",
+    "funding_amount": 8620000.0,
+    "leverage_ratio": 2.51
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": []
+  }
+}

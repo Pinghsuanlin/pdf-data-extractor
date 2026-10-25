@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_022_header_table_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-308BS",
+    "applicant_name": "Heron Commons Apartments, LLC",
+    "total_dev_cost": 21000000.0,
+    "hard_construction_cost": 12092000.0,
+    "funding_source": "HOME-ARP",
+    "funding_amount": 11870000.0,
+    "leverage_ratio": 1.77
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

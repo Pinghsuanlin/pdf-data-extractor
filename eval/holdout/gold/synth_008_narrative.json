@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_008_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-335S",
+    "applicant_name": "Cypress Gardens Housing, LP",
+    "total_dev_cost": 26300000.0,
+    "hard_construction_cost": 16092000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": 10230000.0,
+    "leverage_ratio": 2.57
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "short_money"
+    ]
+  }
+}

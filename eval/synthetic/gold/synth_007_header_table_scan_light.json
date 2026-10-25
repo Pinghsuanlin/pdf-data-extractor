@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_007_header_table_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-334S",
+    "applicant_name": "Heron Place Development, LP",
+    "total_dev_cost": 8600000.0,
+    "hard_construction_cost": 5222000.0,
+    "funding_source": "SAIL",
+    "funding_amount": 2660000.0,
+    "leverage_ratio": 3.23
+  },
+  "tags": {
+    "layout": "header_table",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

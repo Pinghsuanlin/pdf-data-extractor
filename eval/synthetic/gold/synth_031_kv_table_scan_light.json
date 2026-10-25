@@ -1,0 +1,25 @@
+{
+  "source_file": "synth_031_kv_table_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-210S",
+    "applicant_name": "Sunrise Village Housing, LP",
+    "total_dev_cost": 31800000.0,
+    "hard_construction_cost": 20907000.0,
+    "funding_source": "RFA 2024-135",
+    "funding_amount": null,
+    "leverage_ratio": null
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": [
+      "per_unit_distractor",
+      "unseen_labels",
+      "short_money",
+      "no_funding_amount"
+    ]
+  }
+}

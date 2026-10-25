@@ -1,0 +1,371 @@
+{
+  "seed": 7,
+  "n": 40,
+  "scanned_share": 0.3,
+  "documents": [
+    {
+      "doc": "synth_000_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_001_kv_table_scan_light",
+      "layout": "kv_table",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": [
+        "per_unit_distractor",
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_002_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_003_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_004_multipage_scan_heavy",
+      "layout": "multipage",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_005_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "unseen_labels",
+        "leverage_inconsistent"
+      ]
+    },
+    {
+      "doc": "synth_006_kv_table",
+      "layout": "kv_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": []
+    },
+    {
+      "doc": "synth_007_header_table_scan_light",
+      "layout": "header_table",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_008_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_009_multipage",
+      "layout": "multipage",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": []
+    },
+    {
+      "doc": "synth_010_form_scan_heavy",
+      "layout": "form",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "unseen_labels",
+        "short_money",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_011_kv_table",
+      "layout": "kv_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_012_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": []
+    },
+    {
+      "doc": "synth_013_narrative_scan_light",
+      "layout": "narrative",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": []
+    },
+    {
+      "doc": "synth_014_multipage",
+      "layout": "multipage",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "leverage_inconsistent"
+      ]
+    },
+    {
+      "doc": "synth_015_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_016_kv_table_scan_heavy",
+      "layout": "kv_table",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "unseen_labels",
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_017_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_018_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_019_multipage_scan_light",
+      "layout": "multipage",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": []
+    },
+    {
+      "doc": "synth_020_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels",
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_021_kv_table",
+      "layout": "kv_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": []
+    },
+    {
+      "doc": "synth_022_header_table_scan_heavy",
+      "layout": "header_table",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_023_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "leverage_inconsistent"
+      ]
+    },
+    {
+      "doc": "synth_024_multipage",
+      "layout": "multipage",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "unseen_labels",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_025_form_scan_light",
+      "layout": "form",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": []
+    },
+    {
+      "doc": "synth_026_kv_table",
+      "layout": "kv_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_027_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_028_narrative_scan_heavy",
+      "layout": "narrative",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_029_multipage",
+      "layout": "multipage",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "short_money"
+      ]
+    },
+    {
+      "doc": "synth_030_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_031_kv_table_scan_light",
+      "layout": "kv_table",
+      "scanned": true,
+      "scan_quality": "light",
+      "traps": [
+        "per_unit_distractor",
+        "unseen_labels",
+        "short_money",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_032_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "leverage_inconsistent"
+      ]
+    },
+    {
+      "doc": "synth_033_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_034_multipage_scan_heavy",
+      "layout": "multipage",
+      "scanned": true,
+      "scan_quality": "heavy",
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_035_form",
+      "layout": "form",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor"
+      ]
+    },
+    {
+      "doc": "synth_036_kv_table",
+      "layout": "kv_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_037_header_table",
+      "layout": "header_table",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "unseen_labels"
+      ]
+    },
+    {
+      "doc": "synth_038_narrative",
+      "layout": "narrative",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": [
+        "per_unit_distractor",
+        "short_money",
+        "no_funding_amount"
+      ]
+    },
+    {
+      "doc": "synth_039_multipage",
+      "layout": "multipage",
+      "scanned": false,
+      "scan_quality": null,
+      "traps": []
+    }
+  ]
+}

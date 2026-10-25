@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_033_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-295H",
+    "applicant_name": "Harbor Gardens Homes, LLC",
+    "total_dev_cost": 25000000.0,
+    "hard_construction_cost": 16017000.0,
+    "funding_source": "Viability Loan",
+    "funding_amount": 7400000.0,
+    "leverage_ratio": 3.38
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "short_money"
+    ]
+  }
+}

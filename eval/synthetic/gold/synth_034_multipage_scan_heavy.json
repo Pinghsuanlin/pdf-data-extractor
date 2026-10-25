@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_034_multipage_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-180C",
+    "applicant_name": "Citrus Terrace Development, LP",
+    "total_dev_cost": 43100000.0,
+    "hard_construction_cost": 28527000.0,
+    "funding_source": "HOME-ARP",
+    "funding_amount": 12500000.0,
+    "leverage_ratio": 3.45
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "per_unit_distractor"
+    ]
+  }
+}

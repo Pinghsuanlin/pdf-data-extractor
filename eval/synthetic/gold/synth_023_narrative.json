@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_023_narrative.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-190BS",
+    "applicant_name": "Magnolia Gardens Apartments, LLC",
+    "total_dev_cost": 12800000.0,
+    "hard_construction_cost": 9015000.0,
+    "funding_source": "NHTF",
+    "funding_amount": 3690000.0,
+    "leverage_ratio": 2.81
+  },
+  "tags": {
+    "layout": "narrative",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "leverage_inconsistent"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install
+        run: python -m pip install -e ".[dev]"
+      - name: Lint
+        run: python -m ruff check src tests app.py
+      - name: Benchmark generator runs
+        run: python -m pdf_extractor synth --out /tmp/bench --n 10
+      - name: Test (offline, no LLM, no OCR)
+        env:
+          LLM_BACKEND: none
+        run: python -m pytest --cov=pdf_extractor --cov-report=term-missing

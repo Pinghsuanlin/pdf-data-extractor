@@ -1,0 +1,24 @@
+{
+  "source_file": "synth_005_form.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-216C",
+    "applicant_name": "Palm Point Housing, LP",
+    "total_dev_cost": 35100000.0,
+    "hard_construction_cost": 26200000.0,
+    "funding_source": "RFA 2025-125",
+    "funding_amount": 15200000.0,
+    "leverage_ratio": 1.62
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "per_unit_distractor",
+      "short_money",
+      "leverage_inconsistent"
+    ]
+  }
+}

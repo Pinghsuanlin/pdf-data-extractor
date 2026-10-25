@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_026_kv_table.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2025-187H",
+    "applicant_name": "Heron Place Development, LP",
+    "total_dev_cost": 27000000.0,
+    "hard_construction_cost": 16748000.0,
+    "funding_source": "SAIL",
+    "funding_amount": 16570000.0,
+    "leverage_ratio": 1.63
+  },
+  "tags": {
+    "layout": "kv_table",
+    "scanned": false,
+    "scan_quality": null,
+    "traps": [
+      "unseen_labels"
+    ]
+  }
+}

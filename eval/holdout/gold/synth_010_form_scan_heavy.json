@@ -1,0 +1,23 @@
+{
+  "source_file": "synth_010_form_scan_heavy.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2024-361C",
+    "applicant_name": "Palm Crossing Apartments, LLC",
+    "total_dev_cost": 27600000.0,
+    "hard_construction_cost": 18697000.0,
+    "funding_source": "SAIL",
+    "funding_amount": null,
+    "leverage_ratio": null
+  },
+  "tags": {
+    "layout": "form",
+    "scanned": true,
+    "scan_quality": "heavy",
+    "traps": [
+      "unseen_labels",
+      "no_funding_amount"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_file": "synth_019_multipage_scan_light.pdf",
+  "labelled_by": "synthetic generator (values known by construction)",
+  "labelled_on": "generated; see manifest.json for the seed",
+  "fields": {
+    "project_id": "2023-234H",
+    "applicant_name": "Lakeshore Point Housing, LP",
+    "total_dev_cost": 19800000.0,
+    "hard_construction_cost": 11080000.0,
+    "funding_source": "SAIL",
+    "funding_amount": 6140000.0,
+    "leverage_ratio": 3.22
+  },
+  "tags": {
+    "layout": "multipage",
+    "scanned": true,
+    "scan_quality": "light",
+    "traps": [
+      "short_money"
+    ]
+  }
+}
